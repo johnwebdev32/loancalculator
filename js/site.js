@@ -48,12 +48,11 @@ function loanCalc(loanAmount, termMonths, interestRate){
 
         monthlyInterest.push(interest);
 
-        
+
     }
     return balanceArray;
     return monthlyInterest;
-    return principalArray
-    
+    return principalArray;
 }
 
 
